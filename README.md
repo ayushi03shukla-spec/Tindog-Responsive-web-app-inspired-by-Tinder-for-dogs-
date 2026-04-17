@@ -4,13 +4,8 @@ Tindog is a responsive web application inspired by Tinder, designed to help dogs
 
 ---
 
-## 🚀 Live Demo
-🔗 [Add your live link here]
-
----
-
 ## 📸 Preview
-![Tindog Screenshot](add-your-screenshot-link-here)
+add-your-screenshot-link-here-(https://drive.google.com/drive/folders/1F7zEqxnggQGNNJWnFAw-A-ElQ-C4Y7TZ?usp=drive_link)
 
 ---
 
